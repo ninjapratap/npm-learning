@@ -1,0 +1,14 @@
+{
+  "name": "fcc",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ninjapratap",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
